@@ -45,7 +45,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dushyanth1409&debug=true](https://github-trophies.vercel.app/?username=dushyanth1409&theme=tokyonight)" />
+  <img src="https://github-trophies.vercel.app/?username=dushyanth1409&theme=tokyonight" />
 </div>
 
 ## 📊 GitHub Stats
