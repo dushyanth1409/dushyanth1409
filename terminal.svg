@@ -27,13 +27,13 @@
 
   <!-- body -->
   <g class="mono" font-size="15">
-    <text x="24" y="78"><tspan class="prompt">➜  ~</tspan> <tspan class="cmd">whoami</tspan></text>
+    <text x="24" y="78"><tspan class="prompt">➜  ~</tspan> <tspan class="cmd">who_am_i</tspan></text>
     <text x="24" y="102" class="val">M.Sc. Electromobility · embedded systems enthusiast</text>
 
     <text x="24" y="138"><tspan class="prompt">➜  ~</tspan> <tspan class="cmd">cat profile.txt</tspan></text>
     <text x="24" y="162"><tspan class="key">building </tspan><tspan class="val">→ AI job-application pipeline (Python)</tspan></text>
     <text x="24" y="184"><tspan class="key">learning </tspan><tspan class="val">→ embedded firmware, HIL testing</tspan></text>
-    <text x="24" y="206"><tspan class="key">speaking </tspan><tspan class="val">→ English, Telugu, learning Deutsch (B1)</tspan></text>
+    <text x="24" y="206"><tspan class="key">speaking </tspan><tspan class="val">→ English, learning Deutsch (B1)</tspan></text>
     <text x="24" y="228"><tspan class="key">based_in </tspan><tspan class="val">→ Erlangen, Germany</tspan></text>
     <text x="24" y="252" class="comment"># open to embedded / test roles in Nürnberg &amp; München</text>
 
