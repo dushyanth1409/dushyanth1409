@@ -2,23 +2,27 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi%2C%20I'm%20Dushyanth!;Building%20things%20that%20move%20%E2%9A%A1&center=true&size=27" alt="Typing SVG" />
 </div>
- 
-<br/>
 
----
+<br/>
 
 ## 🧑‍💻 About me
 
-| | |
-|---|---|
-| 🎓 | M.Sc. Electromobility — FAU Erlangen-Nürnberg |
-| ⚡ | Embedded firmware · HIL testing · EV powertrain systems |
-| 🐍 | Building a Python AI job-application pipeline |
-| 🌍 | Ich lerne Deutsch — currently B1 |
-| 📍 | Open to roles across Erlangen · Nuremberg · Munich |
-| 💼 | [linkedin.com/in/dushyanth-yadanaparthi](https://linkedin.com/in/dushyanth-yadanaparthi) |
+​```bash
+dushyanth@erlangen:~$ whoami
+M.Sc. Electromobility · embedded systems enthusiast
 
----
+dushyanth@erlangen:~$ cat focus.txt
+working_on = AI job-application pipeline (Python)
+learning   = embedded firmware, HIL testing
+also       = Deutsch lernen 🇩🇪  (currently B1)
+location   = Erlangen, Germany
+# open to embedded / test roles → Erlangen, Nürnberg, München
+
+dushyanth@erlangen:~$ cat contact.txt
+linkedin.com/in/dushyanth-yadanaparthi
+
+dushyanth@erlangen:~$ ▋
+​```
 
 ## 🛠️ Skills
 
@@ -43,8 +47,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
 ## 📊 GitHub stats
 
 <div align="center">
@@ -54,8 +56,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyanth1409&layout=compact&hide_border=true&theme=transparent" />
 </div>
-
----
 
 <div align="center">
   <sub>⭐ From <a href="https://github.com/dushyanth1409">Dushyanth</a></sub>
