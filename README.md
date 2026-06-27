@@ -7,22 +7,9 @@
 
 ## 🧑‍💻 About me
 
-```bash
-dushyanth@erlangen:~$ whoami
-M.Sc. Electromobility · embedded systems enthusiast
-
-dushyanth@erlangen:~$ cat focus.txt
-working_on = AI job-application pipeline (Python)
-learning   = embedded firmware, HIL testing
-also       = Deutsch lernen 🇩🇪  (currently B1)
-location   = Erlangen, Germany
-# open to embedded / test roles → Erlangen, Nürnberg, München
-
-dushyanth@erlangen:~$ cat contact.txt
-linkedin.com/in/dushyanth-yadanaparthi
-
-dushyanth@erlangen:~$ ▋
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dushyanth1409/dushyanth1409/main/terminal.svg" alt="About Dushyanth" width="100%" />
+</div>
 
 ## 🛠️ Skills
 
