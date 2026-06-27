@@ -2,12 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&center=true&size=20&lines=⚡+Hi%2C+I'm+Dushyanth;M.Sc.+Electromobility+%7C+Erlangen%2C+Germany;Embedded+Systems+%26+Test+Engineering;Building+things+that+move" alt="Typing SVG" />
 </div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&center=true&size=20&lines=⚡+Hi%2C+I'm+Dushyanth;M.Sc.+Electromobility+%7C+Erlangen%2C+Germany;Embedded+Systems+%26+Test+Engineering;Building+things+that+move" alt="Typing SVG" />
-
-  <h2>Dushyanth Yadanaparthi</h2>
-  <p>Electromobility · Embedded Systems · Test Engineering</p>
-</div>
+ 
 <br/>
 
 ---
