@@ -1,15 +1,16 @@
-<!-- Profile view counter -->
-<div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=dushyanth1409&color=blueviolet&style=flat-square)
-
-</div>
 
 <!-- Typing header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi%2C%20I'm%20Dushyanth!;Building%20things%20that%20move%20%E2%9A%A1&center=true&size=27" alt="Typing SVG" />
 </div>
 
+<!-- Profile view counter -->
+<div align="left">
+
+![Profile views](https://komarev.com/ghpvc/?username=dushyanth1409&color=blueviolet&style=flat-square)
+
+</div>
 <br/>
 
 ## 🧑‍💻 About me
@@ -44,7 +45,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dushyanth1409&theme=onedark&no-frame=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=dushyanth1409&theme=onedark&no-frame=true&margin-w=10&column=7" />
 </div>
 
 ## 📊 GitHub Stats
