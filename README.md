@@ -45,7 +45,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="[https://github-profile-trophy-liard-delta.vercel.app/?username=dushyanth1409&theme=onedark&no-frame=true&margin-w=10&column=7](https://github-profile-trophy.vercel.app/?username=dushyanth1409&theme=onedark&no-frame=true&margin-w=10&column=7)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dushyanth1409&debug=true" />
 </div>
 
 ## 📊 GitHub Stats
