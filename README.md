@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About me
 
-​```bash
+```bash
 dushyanth@erlangen:~$ whoami
 M.Sc. Electromobility · embedded systems enthusiast
 
@@ -22,7 +22,7 @@ dushyanth@erlangen:~$ cat contact.txt
 linkedin.com/in/dushyanth-yadanaparthi
 
 dushyanth@erlangen:~$ ▋
-​```
+```
 
 ## 🛠️ Skills
 
