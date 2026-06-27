@@ -1,4 +1,11 @@
-<!-- Header -->
+<!-- Profile view counter -->
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=dushyanth1409&color=blueviolet&style=flat-square)
+
+</div>
+
+<!-- Typing header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi%2C%20I'm%20Dushyanth!;Building%20things%20that%20move%20%E2%9A%A1&center=true&size=27" alt="Typing SVG" />
 </div>
@@ -34,16 +41,29 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📊 GitHub stats
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dushyanth1409&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dushyanth1409&theme=onedark&no-frame=true&margin-w=10&column=7" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dushyanth1409&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyanth1409&layout=compact&hide_border=true&theme=transparent" />
+</div>
+
+## 👾 Contribution Arcade
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dushyanth1409/dushyanth1409/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dushyanth1409/dushyanth1409/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dushyanth1409/dushyanth1409/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyanth1409&layout=compact&hide_border=true&theme=transparent" />
-</div>
-
-<div align="center">
-  <sub>⭐ From <a href="https://github.com/dushyanth1409">Dushyanth</a></sub>
+  <sub>⭐ From <a href="https://github.com/dushyanth1409">Dushyanth</a> · <a href="https://linkedin.com/in/dushyanth-yadanaparthi">LinkedIn</a></sub>
 </div>
