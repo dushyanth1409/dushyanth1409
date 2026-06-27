@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi%2C%20I'm%20Dushyanth!;M.Sc.%20Electromobility%20%7C%20Germany;Embedded%20Systems%20%26%20Test%20Engineering;Building%20things%20that%20move%20%E2%9A%A1&center=true&size=27" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi%2C%20I'm%20Dushyanth!;Building%20things%20that%20move%20%E2%9A%A1&center=true&size=27" alt="Typing SVG" />
 </div>
  
 <br/>
