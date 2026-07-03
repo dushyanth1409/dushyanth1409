@@ -51,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dushyanth1409" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dushyanth1409" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dushyanth1409&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dushyanth1409&layout=compact&hide_border=true&theme=transparent" />
 </div>
 
 ## 👾 Contribution Arcade
